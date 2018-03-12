@@ -9,9 +9,6 @@
 - currently peers are looked up over IRC only
 
 # About
-- BLOG: http://baek2sm.blog.me
-- GUIDE: http://baek2sm.blog.me/221188344843
-
 - Copyright (c) 2009-2012 Bitcoin Developers
 - Copyright (c) 2011-2012 Litecoin Developers
 - Copyright (c) 2018 SangChool Lee
